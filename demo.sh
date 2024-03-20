@@ -1,0 +1,1 @@
+docker run -it --rm -v $(pwd):/data plaquette/ska2:v0.3.7
